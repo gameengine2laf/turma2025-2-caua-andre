@@ -3307,3 +3307,9 @@ Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_Th
 [2025.12.16-02.49.27:112][255]LogUObjectHash: Compacting FUObjectHashTables data took  13.61ms
 [2025.12.16-02.49.27:793][256]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2025.12.16-02.49.33:800][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.49.59:498][354]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.50.17:050][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.51.00:023][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8454.412109
+[2025.12.16-02.51.01:019][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.51.01:019][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8455.078125, Update Interval: 343.708618
+[2025.12.16-02.51.08:519][663]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
