@@ -2301,3 +2301,689 @@ Script Stack (0 frames) :
 [2025.12.16-01.28.13:061][693]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.12.16-01.28.41:897][779]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.12.16-01.29.06:408][852]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.29.52:361][989]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.30.41:212][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3635.618896
+[2025.12.16-01.30.41:675][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-01.30.41:676][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3635.940918, Update Interval: 333.758362
+[2025.12.16-01.30.46:260][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.30.46:591][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.16-01.30.46:664][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.12.16-01.30.46:730][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.16-01.30.46:775][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 514.913 ms (total: 3.10 sec)
+[2025.12.16-01.31.39:996][598]LogDerivedDataCache: C:/Users/samuc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-01.33.56:742][282]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.16-01.33.58:708][291]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.16-01.34.11:408][358]Cmd: TRANSACTION UNDO
+[2025.12.16-01.34.11:408][358]LogEditorTransaction: Undo Colocar objetos
+[2025.12.16-01.34.40:192][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.34.40:775][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.16-01.34.40:850][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.16-01.34.40:933][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.12.16-01.34.40:944][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/39/VTWUFJE7Z1ZDB9689HUECT
+[2025.12.16-01.34.40:946][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/VTWUFJE7Z1ZDB9689HUECT7C5FB0B2443C07DEEC519A8DECE1EE1B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/39/VTWUFJE7Z1ZDB9689HUECT.uasset'
+[2025.12.16-01.34.40:952][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KT/FM68TKBCIR4VW5G3RSZLGZ
+[2025.12.16-01.34.40:954][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/FM68TKBCIR4VW5G3RSZLGZD8CF88E541A7234DA54E5B8F9C01F605.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KT/FM68TKBCIR4VW5G3RSZLGZ.uasset'
+[2025.12.16-01.34.40:960][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/7S7POR5WY54J3XC80PMAO6
+[2025.12.16-01.34.40:961][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/7S7POR5WY54J3XC80PMAO6B1E0C0304DD57ED47223F7ABC02D1F3D.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Y7/7S7POR5WY54J3XC80PMAO6.uasset'
+[2025.12.16-01.34.40:967][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/52/JGZ0JI91KYRYSLY5MKI976
+[2025.12.16-01.34.40:968][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/JGZ0JI91KYRYSLY5MKI976A7B5CC23439C4DC9BD76AAA8B15FC9E4.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/52/JGZ0JI91KYRYSLY5MKI976.uasset'
+[2025.12.16-01.34.40:973][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0X/LCQ0MSLI771WSO50N9N1M2
+[2025.12.16-01.34.40:974][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/LCQ0MSLI771WSO50N9N1M29048F0D14F9C320DF0CA678E0286C449.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0X/LCQ0MSLI771WSO50N9N1M2.uasset'
+[2025.12.16-01.34.40:981][501]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/33/30Z9M5S9J78N7Z5LM12COH
+[2025.12.16-01.34.40:984][501]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/30Z9M5S9J78N7Z5LM12COH3755638949E0525011BB25AC3A40680F.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/33/30Z9M5S9J78N7Z5LM12COH.uasset'
+[2025.12.16-01.34.41:037][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 845.342 ms (total: 3.95 sec)
+[2025.12.16-01.34.41:111][501]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.16-01.34.41:111][501]LogContentValidation: Enabled validators:
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.34.41:111][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.34.41:112][501]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.36.32:935][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.36.33:440][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.16-01.36.33:522][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.16-01.36.33:596][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.12.16-01.36.33:604][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MW/VC4LUW00D9BOCQ3XO851YN
+[2025.12.16-01.36.33:606][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/VC4LUW00D9BOCQ3XO851YN23270B4649350797BFB713969CB40457.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MW/VC4LUW00D9BOCQ3XO851YN.uasset'
+[2025.12.16-01.36.33:613][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PZ/36C2J3BMXPPRSDDG8TFR3N
+[2025.12.16-01.36.33:615][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/36C2J3BMXPPRSDDG8TFR3NED5FA9314F5F3FBA4FE02D8379547D80.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PZ/36C2J3BMXPPRSDDG8TFR3N.uasset'
+[2025.12.16-01.36.33:619][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PW/70VFG91UIF8D1H5VF3O24Y
+[2025.12.16-01.36.33:620][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/70VFG91UIF8D1H5VF3O24YED4A4D2A4C85F1994C11CA8CEEF8EC7E.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PW/70VFG91UIF8D1H5VF3O24Y.uasset'
+[2025.12.16-01.36.33:625][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MI/TOOU8C7J3C72WOCMR65M5G
+[2025.12.16-01.36.33:626][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/TOOU8C7J3C72WOCMR65M5G2E40B3AB45C59AFC65D77EAD4C37A7F0.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MI/TOOU8C7J3C72WOCMR65M5G.uasset'
+[2025.12.16-01.36.33:631][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/81/HHM51RT5C5KPWQFIK3M7BF
+[2025.12.16-01.36.33:632][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/HHM51RT5C5KPWQFIK3M7BF0E4A789649EAD8A8F0136EB02778A6C4.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/81/HHM51RT5C5KPWQFIK3M7BF.uasset'
+[2025.12.16-01.36.33:636][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DO/8ZS9GJCWIMFJV3YV2G21CR
+[2025.12.16-01.36.33:637][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/8ZS9GJCWIMFJV3YV2G21CRBA2C953A45370A6EA54E31A8C2BD7E96.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DO/8ZS9GJCWIMFJV3YV2G21CR.uasset'
+[2025.12.16-01.36.33:643][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/G1/ZCAEF2OIQQY74DJHKAOCO4
+[2025.12.16-01.36.33:644][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/ZCAEF2OIQQY74DJHKAOCO4D22BEAAF423B50617AACBDA04F513E1B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/G1/ZCAEF2OIQQY74DJHKAOCO4.uasset'
+[2025.12.16-01.36.33:648][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HD/Q5TPGQ5HS49B9UM0E01Z2G
+[2025.12.16-01.36.33:649][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Q5TPGQ5HS49B9UM0E01Z2G1D282BB945A436FD153FFEB6F3EE2382.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HD/Q5TPGQ5HS49B9UM0E01Z2G.uasset'
+[2025.12.16-01.36.33:653][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TB/V2353AFFOMNMP7W0JSTLCE
+[2025.12.16-01.36.33:654][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/V2353AFFOMNMP7W0JSTLCEE3D4FB9547500FA7E0F50A8AD4590347.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TB/V2353AFFOMNMP7W0JSTLCE.uasset'
+[2025.12.16-01.36.33:658][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8Q/5TC8K8OZ18EIOOX1KMFXSV
+[2025.12.16-01.36.33:659][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/5TC8K8OZ18EIOOX1KMFXSV830CF70B47A6954B8668C3950261378B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8Q/5TC8K8OZ18EIOOX1KMFXSV.uasset'
+[2025.12.16-01.36.33:664][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3S/M9D00IYETTGF68WZPQOLMV
+[2025.12.16-01.36.33:665][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/M9D00IYETTGF68WZPQOLMVCBD3B1AE4B2D10A88A84D8B61B1843D9.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3S/M9D00IYETTGF68WZPQOLMV.uasset'
+[2025.12.16-01.36.33:671][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KP/YN6HMU0WWLB6HC452GSPDD
+[2025.12.16-01.36.33:672][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/YN6HMU0WWLB6HC452GSPDD3C4D348F424346BD9A967585623276BF.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KP/YN6HMU0WWLB6HC452GSPDD.uasset'
+[2025.12.16-01.36.33:677][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WM/CNPGN30U3UIUXWE2HGG205
+[2025.12.16-01.36.33:678][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/CNPGN30U3UIUXWE2HGG20567A57B354ED5525F4391088A8366721E.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WM/CNPGN30U3UIUXWE2HGG205.uasset'
+[2025.12.16-01.36.33:682][ 59]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/47/MK9R7NKXMVOCDM8A224D6L
+[2025.12.16-01.36.33:683][ 59]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/MK9R7NKXMVOCDM8A224D6L0802F1264EB35FEC4D1D718CB19D1281.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/47/MK9R7NKXMVOCDM8A224D6L.uasset'
+[2025.12.16-01.36.33:737][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 801.561 ms (total: 4.75 sec)
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: Display: Starting to validate 14 assets
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: Enabled validators:
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.36.33:829][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.36.33:830][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.36.33:830][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.36.33:830][ 59]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.36.48:689][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4003.096436
+[2025.12.16-01.36.49:806][138]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-01.36.49:806][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4003.582520, Update Interval: 319.279755
+[2025.12.16-01.37.21:541][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.37.22:030][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.12.16-01.37.22:111][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.16-01.37.22:185][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.16-01.37.22:192][299]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5S/G3ZEQ83MPG1NAPEC7NRAHV
+[2025.12.16-01.37.22:193][299]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/G3ZEQ83MPG1NAPEC7NRAHVAA998B724183DC231ADE03BE5B8B0724.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5S/G3ZEQ83MPG1NAPEC7NRAHV.uasset'
+[2025.12.16-01.37.22:198][299]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/WU/VFHTN2UYL1N0F5A94V604M
+[2025.12.16-01.37.22:199][299]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/VFHTN2UYL1N0F5A94V604M59FAAC974A6BE47986514FB0855C6A64.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/WU/VFHTN2UYL1N0F5A94V604M.uasset'
+[2025.12.16-01.37.22:204][299]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/BWIHNI7843PRJNAW7EJLAT
+[2025.12.16-01.37.22:206][299]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BWIHNI7843PRJNAW7EJLAT7FECE0B54C3B0ACB1A9722ADA113F8E7.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/BWIHNI7843PRJNAW7EJLAT.uasset'
+[2025.12.16-01.37.22:265][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 723.832 ms (total: 5.48 sec)
+[2025.12.16-01.37.22:323][299]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.16-01.37.22:323][299]LogContentValidation: Enabled validators:
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.37.22:323][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.37.22:323][299]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.40.49:213][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.40.49:760][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.12.16-01.40.49:843][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.12.16-01.40.49:923][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.16-01.40.49:931][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HZ/3TBLGK9HGXVEB3OLLYH581
+[2025.12.16-01.40.49:932][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/3TBLGK9HGXVEB3OLLYH581439827704D3668AD00158A91566C412B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HZ/3TBLGK9HGXVEB3OLLYH581.uasset'
+[2025.12.16-01.40.49:937][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EP/CLWSI8G4DE4IVTYVJNAF7Y
+[2025.12.16-01.40.49:938][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/CLWSI8G4DE4IVTYVJNAF7YAAEF543640606596465AE79D722FA481.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EP/CLWSI8G4DE4IVTYVJNAF7Y.uasset'
+[2025.12.16-01.40.49:945][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0C/HX445GN1EDDLDO8WJBG8VH
+[2025.12.16-01.40.49:946][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/HX445GN1EDDLDO8WJBG8VH12EB98FE4D2AF508EE6E6FA1A167B499.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0C/HX445GN1EDDLDO8WJBG8VH.uasset'
+[2025.12.16-01.40.49:951][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N6/9YJ1CTI686V6QH6V7FGI5Q
+[2025.12.16-01.40.49:952][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/9YJ1CTI686V6QH6V7FGI5Q1073383F46E5CC1CCF71ED8FC45FCC4B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N6/9YJ1CTI686V6QH6V7FGI5Q.uasset'
+[2025.12.16-01.40.49:958][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NJ/Y2QOKB7F9SBNTNMKFQULV5
+[2025.12.16-01.40.49:960][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Y2QOKB7F9SBNTNMKFQULV5A049C61448305B273F44209C6E837F5C.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NJ/Y2QOKB7F9SBNTNMKFQULV5.uasset'
+[2025.12.16-01.40.49:964][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AX/2H77GJQOKG5GYWK9I940QG
+[2025.12.16-01.40.49:965][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/2H77GJQOKG5GYWK9I940QG7154C74F4109E12944473499DDC324D3.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AX/2H77GJQOKG5GYWK9I940QG.uasset'
+[2025.12.16-01.40.49:970][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZJ/F0F1TUIT2MQH1FEIWN0Y6L
+[2025.12.16-01.40.49:971][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/F0F1TUIT2MQH1FEIWN0Y6L1229D3E44755A53F315C3781A1DB073A.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZJ/F0F1TUIT2MQH1FEIWN0Y6L.uasset'
+[2025.12.16-01.40.49:976][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XV/UAM289X0SUYWVL85009CON
+[2025.12.16-01.40.49:977][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/UAM289X0SUYWVL85009CON5863EC3A4A51664E8A4F0F915B89E66B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XV/UAM289X0SUYWVL85009CON.uasset'
+[2025.12.16-01.40.49:982][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CZ/G1A36FIT589ZWEHBULLJVG
+[2025.12.16-01.40.49:984][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/G1A36FIT589ZWEHBULLJVG6434AC3E4CE67B16A452BB87A34274EA.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CZ/G1A36FIT589ZWEHBULLJVG.uasset'
+[2025.12.16-01.40.49:990][307]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5G/HSTHRBGZS2Z7NMWSP7IFU2
+[2025.12.16-01.40.49:991][307]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/HSTHRBGZS2Z7NMWSP7IFU2AE3844CD418084E72F150EB3DAC16D0B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5G/HSTHRBGZS2Z7NMWSP7IFU2.uasset'
+[2025.12.16-01.40.50:011][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 798.403 ms (total: 6.27 sec)
+[2025.12.16-01.40.50:076][307]LogContentValidation: Display: Starting to validate 10 assets
+[2025.12.16-01.40.50:076][307]LogContentValidation: Enabled validators:
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.40.50:077][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.40.50:078][307]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.42.49:496][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4363.898438
+[2025.12.16-01.42.50:166][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-01.42.50:166][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4364.362305, Update Interval: 306.163513
+[2025.12.16-01.42.56:421][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.42.56:915][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.12.16-01.42.56:992][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.16-01.42.57:073][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.12.16-01.42.57:082][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4R/7ZNYJF5DQCFLTRURGY1FM8
+[2025.12.16-01.42.57:083][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/7ZNYJF5DQCFLTRURGY1FM8D49CE52A40F0738E8BA1F789A59AB7B9.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4R/7ZNYJF5DQCFLTRURGY1FM8.uasset'
+[2025.12.16-01.42.57:088][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/D838B0TE2AU41CJ7WDAB40
+[2025.12.16-01.42.57:089][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/D838B0TE2AU41CJ7WDAB40D96377CB488187DEC59231A19E87937A.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/UO/D838B0TE2AU41CJ7WDAB40.uasset'
+[2025.12.16-01.42.57:093][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IY/1AYI9VO5F81O9ISL3HCESL
+[2025.12.16-01.42.57:094][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/1AYI9VO5F81O9ISL3HCESL0D2771FC4636F5027A9086BD7F13ABD9.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IY/1AYI9VO5F81O9ISL3HCESL.uasset'
+[2025.12.16-01.42.57:101][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G9/KYKJPELECD0MP5Y2AAY9X0
+[2025.12.16-01.42.57:102][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/KYKJPELECD0MP5Y2AAY9X0E9140C2246119EE1E0A032885048A074.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G9/KYKJPELECD0MP5Y2AAY9X0.uasset'
+[2025.12.16-01.42.57:107][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B7/9BI4LZK6V8DPI4QT1K1AUZ
+[2025.12.16-01.42.57:108][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/9BI4LZK6V8DPI4QT1K1AUZ2A8EA74A4F45BB767355AF8C55078E29.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/B7/9BI4LZK6V8DPI4QT1K1AUZ.uasset'
+[2025.12.16-01.42.57:114][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/H7/D40X3O603X5UH8P23LD9LB
+[2025.12.16-01.42.57:115][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/D40X3O603X5UH8P23LD9LB0FCBB40E4432AAC17BD625B9C240663B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/H7/D40X3O603X5UH8P23LD9LB.uasset'
+[2025.12.16-01.42.57:121][918]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LF/37MWUDTEONPQNFM6752PST
+[2025.12.16-01.42.57:122][918]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/37MWUDTEONPQNFM6752PST5C3CDD444FB09842A4F875A7ACFCFE49.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LF/37MWUDTEONPQNFM6752PST.uasset'
+[2025.12.16-01.42.57:193][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 772.330 ms (total: 7.05 sec)
+[2025.12.16-01.42.57:254][918]LogContentValidation: Display: Starting to validate 7 assets
+[2025.12.16-01.42.57:254][918]LogContentValidation: Enabled validators:
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.42.57:254][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.42.57:255][918]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.43.27:093][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.43.27:299][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.12.16-01.43.27:381][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.12.16-01.43.27:456][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.16-01.43.27:465][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NG/D3AC53O6P3FRLQELVR8X7T
+[2025.12.16-01.43.27:466][ 68]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/D3AC53O6P3FRLQELVR8X7T0D564F764F824137D72A6F844EB5F75E.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NG/D3AC53O6P3FRLQELVR8X7T.uasset'
+[2025.12.16-01.43.27:472][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/80/DQ151M6SPR28V86X2JCP73
+[2025.12.16-01.43.27:473][ 68]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/DQ151M6SPR28V86X2JCP73874816FA4B4EC4700F6388BDC6F7632D.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/80/DQ151M6SPR28V86X2JCP73.uasset'
+[2025.12.16-01.43.27:478][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CD/CR9IFHMJM3J09AH6ZLRJ0T
+[2025.12.16-01.43.27:480][ 68]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/CR9IFHMJM3J09AH6ZLRJ0T1E6E721D443D3A64E92329A5087A9220.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CD/CR9IFHMJM3J09AH6ZLRJ0T.uasset'
+[2025.12.16-01.43.27:485][ 68]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X5/AC2GAMRZRMP6QW6IKXSB50
+[2025.12.16-01.43.27:486][ 68]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/AC2GAMRZRMP6QW6IKXSB50AF995D2D481B9C6AB6ED0BB6772DBEB8.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X5/AC2GAMRZRMP6QW6IKXSB50.uasset'
+[2025.12.16-01.43.27:528][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.669 ms (total: 7.48 sec)
+[2025.12.16-01.43.27:597][ 68]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.16-01.43.27:597][ 68]LogContentValidation: Enabled validators:
+[2025.12.16-01.43.27:597][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.43.27:597][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.43.27:597][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.43.27:599][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.43.27:599][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.43.27:599][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.43.27:601][ 68]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.46.29:783][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.46.30:410][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.16-01.46.30:493][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.16-01.46.30:568][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.16-01.46.30:576][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1Y/UQTB7VSYL5DHKOU3HLSDIF
+[2025.12.16-01.46.30:578][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/UQTB7VSYL5DHKOU3HLSDIFE0D35BA34623A2394D94EB986B1B0B67.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1Y/UQTB7VSYL5DHKOU3HLSDIF.uasset'
+[2025.12.16-01.46.30:583][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4T/ZTY53JVWIQNL9TOPG0GZ44
+[2025.12.16-01.46.30:584][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/ZTY53JVWIQNL9TOPG0GZ44FC7B00D24D68C43E44036DA9392EA66E.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4T/ZTY53JVWIQNL9TOPG0GZ44.uasset'
+[2025.12.16-01.46.30:590][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/16/EJXTF150NMSOTE27HZP7W8
+[2025.12.16-01.46.30:591][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/EJXTF150NMSOTE27HZP7W863702A9C4BE67B5D9A8F21A86CD26F41.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/16/EJXTF150NMSOTE27HZP7W8.uasset'
+[2025.12.16-01.46.30:596][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TY/RX1PQBIDOWWYC4B4OMYR4B
+[2025.12.16-01.46.30:597][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/RX1PQBIDOWWYC4B4OMYR4B3C0A16184085F52CB7477CA8215D58A6.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TY/RX1PQBIDOWWYC4B4OMYR4B.uasset'
+[2025.12.16-01.46.30:603][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UF/OZQSEIF2O0BV9P5IH3H9DU
+[2025.12.16-01.46.30:604][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/OZQSEIF2O0BV9P5IH3H9DUC03F1865466597A5F7E8D2B1256B7D0D.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/UF/OZQSEIF2O0BV9P5IH3H9DU.uasset'
+[2025.12.16-01.46.30:609][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7M/J1P0V4BPGQ9AHU4E3L6J7B
+[2025.12.16-01.46.30:611][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/J1P0V4BPGQ9AHU4E3L6J7B9D6CB0DA4F105B0F278F7CB1EDAE841E.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7M/J1P0V4BPGQ9AHU4E3L6J7B.uasset'
+[2025.12.16-01.46.30:616][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SL/NX0K1GSMZK4WYNSMMZRN6O
+[2025.12.16-01.46.30:617][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/NX0K1GSMZK4WYNSMMZRN6O634C365240E735F86158C0A06DB9847B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SL/NX0K1GSMZK4WYNSMMZRN6O.uasset'
+[2025.12.16-01.46.30:622][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YS/BROW2XISZD5KYWRH0BA0E0
+[2025.12.16-01.46.30:623][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BROW2XISZD5KYWRH0BA0E0CD60857047C12132FEC2C388A1D3605F.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YS/BROW2XISZD5KYWRH0BA0E0.uasset'
+[2025.12.16-01.46.30:628][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8F/QBY01KS1O1C2G1ADRERZX7
+[2025.12.16-01.46.30:629][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/QBY01KS1O1C2G1ADRERZX7CE1544D44602BC8F9AAC758CBBBCB19A.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8F/QBY01KS1O1C2G1ADRERZX7.uasset'
+[2025.12.16-01.46.30:634][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/C1/Q4J4YDZB468UKWASVLOMWC
+[2025.12.16-01.46.30:635][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Q4J4YDZB468UKWASVLOMWC498F921A4426F5B5A3768987895B7004.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/C1/Q4J4YDZB468UKWASVLOMWC.uasset'
+[2025.12.16-01.46.30:640][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U6/FOODESVPAWWJS4GREBOD44
+[2025.12.16-01.46.30:641][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/FOODESVPAWWJS4GREBOD44915587244C74644F9AA5EB971C55C544.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U6/FOODESVPAWWJS4GREBOD44.uasset'
+[2025.12.16-01.46.30:646][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3S/6NO1S0ZVI3XFXRZLDDI8OL
+[2025.12.16-01.46.30:646][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/6NO1S0ZVI3XFXRZLDDI8OLF626CBDF433C195F418348B81144CF8B.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3S/6NO1S0ZVI3XFXRZLDDI8OL.uasset'
+[2025.12.16-01.46.30:651][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CX/NB5PW3TBYMX5RNMZSGVYFQ
+[2025.12.16-01.46.30:652][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/NB5PW3TBYMX5RNMZSGVYFQFD6067E745EBC1274C10A096B062A683.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CX/NB5PW3TBYMX5RNMZSGVYFQ.uasset'
+[2025.12.16-01.46.30:657][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/E9/LNTJI3CY28D5TN3IPE47GI
+[2025.12.16-01.46.30:658][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/LNTJI3CY28D5TN3IPE47GI3722304644F355D7E26DE9B0A524D744.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/E9/LNTJI3CY28D5TN3IPE47GI.uasset'
+[2025.12.16-01.46.30:662][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S1/JXND7IUQJ89KMDBE51C4YH
+[2025.12.16-01.46.30:664][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/JXND7IUQJ89KMDBE51C4YHAAC7FC6D4A33B4A3D8907C8692600A39.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/S1/JXND7IUQJ89KMDBE51C4YH.uasset'
+[2025.12.16-01.46.30:670][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UH/U0DIXR0ZL8H9IW6XQY29RV
+[2025.12.16-01.46.30:671][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/U0DIXR0ZL8H9IW6XQY29RV068433C94F4C44DEC25A459D0BCB9849.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UH/U0DIXR0ZL8H9IW6XQY29RV.uasset'
+[2025.12.16-01.46.30:677][956]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/13/LE46P8XCZDNFZ2ZKD57QTW
+[2025.12.16-01.46.30:678][956]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/LE46P8XCZDNFZ2ZKD57QTW95A0C7054A980FC9C7D6BEA8A61F384C.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/13/LE46P8XCZDNFZ2ZKD57QTW.uasset'
+[2025.12.16-01.46.30:725][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 942.609 ms (total: 8.42 sec)
+[2025.12.16-01.46.30:808][956]LogContentValidation: Display: Starting to validate 17 assets
+[2025.12.16-01.46.30:808][956]LogContentValidation: Enabled validators:
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.46.30:809][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.46.30:809][956]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.48.08:452][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.48.08:899][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.12.16-01.48.08:982][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.16-01.48.09:058][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.16-01.48.09:066][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FW/67SY6ISK4MREB12OOVAO9E
+[2025.12.16-01.48.09:067][439]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/67SY6ISK4MREB12OOVAO9E0A9E0FB146FD75DDDD845F91B46C06B3.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FW/67SY6ISK4MREB12OOVAO9E.uasset'
+[2025.12.16-01.48.09:074][439]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V7/S9JKPBGBVHCTM5919ZT4IQ
+[2025.12.16-01.48.09:075][439]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/S9JKPBGBVHCTM5919ZT4IQ275537B5427DAEB0CA319AA7C8B57BAB.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V7/S9JKPBGBVHCTM5919ZT4IQ.uasset'
+[2025.12.16-01.48.09:114][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 662.013 ms (total: 9.09 sec)
+[2025.12.16-01.48.09:180][439]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.16-01.48.09:180][439]LogContentValidation: Enabled validators:
+[2025.12.16-01.48.09:180][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.48.09:180][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.48.09:180][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.48.09:181][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.48.09:181][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.48.09:181][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.48.09:181][439]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.48.52:076][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4726.478516
+[2025.12.16-01.48.52:592][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-01.48.52:592][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4726.733887, Update Interval: 327.082123
+[2025.12.16-01.49.58:906][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.49.59:420][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.16-01.49.59:499][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.12.16-01.49.59:574][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.12.16-01.49.59:581][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y3/JFTXJLOBZ12HYCFB25AMUF
+[2025.12.16-01.49.59:582][993]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/JFTXJLOBZ12HYCFB25AMUF0C118CA74E624AAB161327A19295383D.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y3/JFTXJLOBZ12HYCFB25AMUF.uasset'
+[2025.12.16-01.49.59:587][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/O9/R7H4KYEJ4UG7XMVU22LN5I
+[2025.12.16-01.49.59:588][993]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/R7H4KYEJ4UG7XMVU22LN5IFDF293C0472ADF07EC58BD88E90D6742.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/O9/R7H4KYEJ4UG7XMVU22LN5I.uasset'
+[2025.12.16-01.49.59:593][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FB/Y1O0UV98D6K6F99D98YUM5
+[2025.12.16-01.49.59:595][993]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Y1O0UV98D6K6F99D98YUM57D6702BD4956E51637CEC7968B6B260F.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FB/Y1O0UV98D6K6F99D98YUM5.uasset'
+[2025.12.16-01.49.59:602][993]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/G6/RJH2KGE9SBF88MCZBRJWMW
+[2025.12.16-01.49.59:604][993]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/RJH2KGE9SBF88MCZBRJWMW8B7EA26C413C88FA66BB4787E14FEE1A.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/G6/RJH2KGE9SBF88MCZBRJWMW.uasset'
+[2025.12.16-01.49.59:664][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 759.082 ms (total: 9.84 sec)
+[2025.12.16-01.49.59:735][993]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.16-01.49.59:735][993]LogContentValidation: Enabled validators:
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.49.59:735][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.49.59:736][993]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.50.46:662][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.50.47:142][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.16-01.50.47:219][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.12.16-01.50.47:299][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.12.16-01.50.47:307][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3C/4XB4RFADTUAWCHWKGDQKIP
+[2025.12.16-01.50.47:308][224]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/4XB4RFADTUAWCHWKGDQKIPD49B6D3D446E0566EFB7758A1802F857.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3C/4XB4RFADTUAWCHWKGDQKIP.uasset'
+[2025.12.16-01.50.47:314][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WC/KX493BQTZ7D2T81L8LMYJG
+[2025.12.16-01.50.47:315][224]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/KX493BQTZ7D2T81L8LMYJGA2167E5E42D3A762860A2FAFCC6C515F.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WC/KX493BQTZ7D2T81L8LMYJG.uasset'
+[2025.12.16-01.50.47:320][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LJ/0TMRXZ7TP5WPSOTLNCIAYW
+[2025.12.16-01.50.47:322][224]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/0TMRXZ7TP5WPSOTLNCIAYW4FC7A4EA48FB8662471257A7FF7524C1.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LJ/0TMRXZ7TP5WPSOTLNCIAYW.uasset'
+[2025.12.16-01.50.47:370][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 708.147 ms (total: 10.5 sec)
+[2025.12.16-01.50.47:437][224]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.16-01.50.47:438][224]LogContentValidation: Enabled validators:
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.50.47:438][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.50.47:439][224]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.51.44:404][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.51.44:883][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.12.16-01.51.44:959][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.12.16-01.51.45:035][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.12.16-01.51.45:041][502]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/65/N79DUXP1P56M2MA3ZCN03T
+[2025.12.16-01.51.45:042][502]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/N79DUXP1P56M2MA3ZCN03T495F87E84E3488304B86CCBAEB3AB2F7.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/65/N79DUXP1P56M2MA3ZCN03T.uasset'
+[2025.12.16-01.51.45:049][502]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XO/18VHPW19RYQYE3HU4LOWH2
+[2025.12.16-01.51.45:050][502]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/18VHPW19RYQYE3HU4LOWH23F00649D493CE235EFCA1FA6FC660AE5.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XO/18VHPW19RYQYE3HU4LOWH2.uasset'
+[2025.12.16-01.51.45:090][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 687.292 ms (total: 11.2 sec)
+[2025.12.16-01.51.45:141][502]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.16-01.51.45:141][502]LogContentValidation: Enabled validators:
+[2025.12.16-01.51.45:141][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.51.45:141][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.51.45:141][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.51.45:141][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.51.45:142][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.51.45:142][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.51.45:142][502]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.52.37:896][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.52.38:403][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.16-01.52.38:479][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.16-01.52.38:560][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.12.16-01.52.38:568][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KK/JVF1GMRENZHMXPSYCXONN0
+[2025.12.16-01.52.38:569][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/JVF1GMRENZHMXPSYCXONN05E2B0A874010E2340EBAE291E06764AF.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KK/JVF1GMRENZHMXPSYCXONN0.uasset'
+[2025.12.16-01.52.38:575][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/E5/SQP3JHDTYMVRY93H2EIOCW
+[2025.12.16-01.52.38:576][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/SQP3JHDTYMVRY93H2EIOCW7CC6E06E4326052406E7D49E658927F2.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/E5/SQP3JHDTYMVRY93H2EIOCW.uasset'
+[2025.12.16-01.52.38:581][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GG/MG9QEM5IWYD1999FXETZS5
+[2025.12.16-01.52.38:582][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/MG9QEM5IWYD1999FXETZS5EE1362A94AB2B4B93505C28AE27CFB62.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GG/MG9QEM5IWYD1999FXETZS5.uasset'
+[2025.12.16-01.52.38:587][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3B/5UZ0DEFN70I0WIPQUXPABS
+[2025.12.16-01.52.38:588][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/5UZ0DEFN70I0WIPQUXPABS67CA0EF846016AC89F21F291CE39F5BC.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3B/5UZ0DEFN70I0WIPQUXPABS.uasset'
+[2025.12.16-01.52.38:595][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E8/WDZB66Z4ZFHYG5KDDXWXXQ
+[2025.12.16-01.52.38:596][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/WDZB66Z4ZFHYG5KDDXWXXQB52EA9FA44D844FA30C90695BF15D6DF.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E8/WDZB66Z4ZFHYG5KDDXWXXQ.uasset'
+[2025.12.16-01.52.38:601][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/W7HNJ2ICK0QL8BBYGWEGBI
+[2025.12.16-01.52.38:601][750]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/W7HNJ2ICK0QL8BBYGWEGBI2B17E70044E992D5339FEB8CADC43651.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/W7HNJ2ICK0QL8BBYGWEGBI.uasset'
+[2025.12.16-01.52.38:621][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 725.366 ms (total: 11.9 sec)
+[2025.12.16-01.52.38:696][750]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.16-01.52.38:696][750]LogContentValidation: Enabled validators:
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-01.52.38:696][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-01.52.38:696][750]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-01.53.05:519][872]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.53.22:971][924]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.53.37:009][965]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.53.49:127][  1]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.54.11:450][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-01.54.11:935][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.16-01.54.12:014][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.12.16-01.54.12:085][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.12.16-01.54.12:129][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 679.602 ms (total: 12.6 sec)
+[2025.12.16-01.54.29:187][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.54.56:531][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5090.943848
+[2025.12.16-01.54.57:535][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-01.54.57:535][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5091.611816, Update Interval: 304.744415
+[2025.12.16-01.55.23:427][337]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2025.12.16-01.55.23:427][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.16-01.55.23:428][337]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.12.16-01.55.23:930][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.16-01.55.23:932][337]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.12.16-01.55.52:434][467]LogBlueprint: Warning: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] Não foi possível encontrar uma variável de nome "PlayerHealth" em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C".
+Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C" foi compilado para  Get PlayerHealth
+[2025.12.16-01.55.52:435][467]LogBlueprint: Warning: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] Não foi possível encontrar uma variável de nome "PlayerStamina" em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C".
+Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C" foi compilado para  Get PlayerStamina
+[2025.12.16-01.55.52:436][467]LogBlueprint: Warning: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] Não foi possível encontrar uma variável de nome "PlayerCurrentAmmo" em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C".
+Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C" foi compilado para  Get PlayerCurrentAmmo
+[2025.12.16-01.55.52:437][467]LogBlueprint: Warning: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] Não foi possível encontrar uma variável de nome "TargetsEliminated" em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C".
+Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C" foi compilado para  Get TargetsEliminated
+[2025.12.16-01.55.52:438][467]LogBlueprint: Error: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] A propriedade associada a  Player Health  não pôde ser encontrada em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C"
+[2025.12.16-01.55.52:438][467]LogBlueprint: Error: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] A propriedade associada a  Player Stamina  não pôde ser encontrada em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C"
+[2025.12.16-01.55.52:438][467]LogBlueprint: Error: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] A propriedade associada a  Player Current Ammo  não pôde ser encontrada em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C"
+[2025.12.16-01.55.52:439][467]LogBlueprint: Error: [AssetLog] C:\Users\samuc\Documents\GitHub\turma2025-2-caua-andre\atv_GME_Caua\Content\UI\HUD.uasset: [Compiler] A propriedade associada a  Targets Eliminated  não pôde ser encontrada em "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C"
+[2025.12.16-01.55.52:595][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2025.12.16-01.56.57:864][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2025.12.16-01.56.57:868][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.175
+[2025.12.16-01.56.57:869][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2025.12.16-01.56.57:903][803]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/HUD.HUD]
+[2025.12.16-01.56.57:904][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2025.12.16-01.56.57:905][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/UI/HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.12.16-01.56.57:946][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HUD_Auto2
+[2025.12.16-01.56.57:946][803]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/HUD_Auto2919B11FA4EC978507A1FACB540F4FE74.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/UI/HUD_Auto2.uasset'
+[2025.12.16-01.56.57:949][803]LogFileHelpers: Auto-saving content packages took 0.081
+[2025.12.16-01.57.20:584][922]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.57.41:190][989]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.58.06:380][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.58.24:116][163]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.59.00:553][315]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.59.41:473][489]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-01.59.41:852][491]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.12.16-01.59.41:853][491]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.12.16-01.59.49:503][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.12.16-01.59.49:517][526]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.16-01.59.49:517][526]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.12.16-01.59.54:061][529]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.12.16-01.59.54:063][529]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.12.16-02.00.15:671][618]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.00.41:648][713]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.00.51:067][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5445.466309
+[2025.12.16-02.00.52:069][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.00.52:069][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5446.165039, Update Interval: 356.286499
+[2025.12.16-02.01.05:868][804]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.01.39:036][936]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.01.57:017][  3]LogSlate: Took 0.001897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.16-02.02.10:154][ 54]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.02.50:323][210]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.03.28:201][355]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.04.28:803][578]LogUObjectHash: Compacting FUObjectHashTables data took  12.25ms
+[2025.12.16-02.04.47:768][645]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.05.10:685][730]LogUObjectHash: Compacting FUObjectHashTables data took  11.25ms
+[2025.12.16-02.05.23:670][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.05.24:433][781]LogUObjectHash: Compacting FUObjectHashTables data took  15.02ms
+[2025.12.16-02.05.24:684][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2025.12.16-02.05.24:870][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.12.16-02.05.24:931][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 13.9 sec)
+[2025.12.16-02.05.28:240][792]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.05.38:198][830]LogUObjectHash: Compacting FUObjectHashTables data took  12.48ms
+[2025.12.16-02.05.43:886][852]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.16-02.05.43:918][852]LogContentBundle: [ThirdPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.16-02.05.43:919][852]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.16-02.05.43:988][852]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 69.461 ms (total: 177.018 ms)
+[2025.12.16-02.05.43:990][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-02.05.43:993][852]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2025.12.16-02.05.44:001][852]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.12.16-02.05.44:152][853]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.05.44:219][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066339s)
+[2025.12.16-02.05.44:219][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.066461s)
+[2025.12.16-02.05.44:490][853]LogUObjectHash: Compacting FUObjectHashTables data took  18.29ms
+[2025.12.16-02.05.44:503][853]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.16-02.05.44:508][853]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2025.12.16-02.05.44:517][853]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.16-02.05.44:517][853]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.16-02.05.44:517][853]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.16-02.05.44:517][853]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.16-02.05.44:555][853]LogWorldPartition: Display: WorldPartition initialize took 38.746 ms (total: 560.111 ms)
+[2025.12.16-02.05.44:555][853]LogPlayLevel: PIE: World Init took: (0.052319s)
+[2025.12.16-02.05.44:569][853]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-02.05.44:569][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-02.05.44:570][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-02.05.44:570][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-02.05.44:570][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-02.05.44:570][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-02.05.44:588][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-02.05.44:753][853]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2025.12.16-02.05.44:754][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-02.05.44:754][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-02.05.44:754][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-02.05.44:762][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.16-02.05.44:763][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.16-02.05.44:769][853]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.16-02.05.44:769][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.16-02.05.44:769][853]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2025.12.16-02.05.44:770][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.16-02.05.44:770][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.16-02.05.44:786][853]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.16-02.05.44:832][853]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.12.15-23.05.44
+[2025.12.16-02.05.44:834][853]LogWorld: Bringing up level for play took: 0.045582
+[2025.12.16-02.05.44:868][853]PIE: Servidor conectado
+[2025.12.16-02.05.44:870][853]PIE: Tempo inicial total de reprodução no editor: 0,952 s
+[2025.12.16-02.05.57:919][958]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.05.59:171][969]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.05.59:185][969]LogScript: Warning: Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_5
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:008F
+[2025.12.16-02.05.59:185][969]PIE: Error: Blueprint Tempo de execução Error: "Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)". Nódulo:  Destroy Actor Gráfico  EventGraph Função:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2025.12.16-02.06.00:312][976]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=8
+[2025.12.16-02.06.01:999][989]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.06.05:753][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.06.05:753][ 16]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.06.05:753][ 16]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.06.05:770][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.06.05:772][ 16]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.12.16-02.06.05:833][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-02.06.05:917][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.06.06:221][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.16-02.06.06:233][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.16-02.06.06:234][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.12.16-02.06.06:248][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.12.16-02.06.06:269][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.06.06:307][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2025.12.16-02.06.07:830][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.12.16-02.06.25:937][ 81]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.06.28:917][ 96]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.06.29:292][ 96]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.07.03:805][250]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.07.23:186][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.07.23:740][335]LogUObjectHash: Compacting FUObjectHashTables data took  18.22ms
+[2025.12.16-02.07.24:019][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2025.12.16-02.07.24:285][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2025.12.16-02.07.24:418][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.23 sec (total: 15.1 sec)
+[2025.12.16-02.07.39:035][398]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.07.41:901][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5856.314453
+[2025.12.16-02.07.42:802][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.07.42:803][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5856.820801, Update Interval: 329.616394
+[2025.12.16-02.08.12:168][543]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.16-02.08.13:716][546]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.16-02.08.18:800][563]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.08.58:232][725]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.09.04:602][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.09.05:199][756]LogUObjectHash: Compacting FUObjectHashTables data took  14.05ms
+[2025.12.16-02.09.05:405][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.12.16-02.09.05:718][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2025.12.16-02.09.05:740][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MQ/4P425RM798F5POIWUYTINU
+[2025.12.16-02.09.05:749][756]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/4P425RM798F5POIWUYTINU3197820444ACCAE6AAE2D99CBE5EC3FC.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MQ/4P425RM798F5POIWUYTINU.uasset'
+[2025.12.16-02.09.05:801][756]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QZ/308X1THEH8GRFC6V9NALDR
+[2025.12.16-02.09.05:802][756]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/308X1THEH8GRFC6V9NALDR960A7D5241F44FC0ED45079C78D13D2A.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QZ/308X1THEH8GRFC6V9NALDR.uasset'
+[2025.12.16-02.09.05:937][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.33 sec (total: 16.4 sec)
+[2025.12.16-02.09.06:171][756]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.16-02.09.06:171][756]LogContentValidation: Enabled validators:
+[2025.12.16-02.09.06:171][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-02.09.06:172][756]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-02.09.06:172][756]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-02.09.06:172][756]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-02.09.06:172][756]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-02.09.06:173][756]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-02.09.06:173][756]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.16-02.09.19:237][816]LogShaderCompilers: Display: ================================================
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: Total job queries 660, among them cache hits 75 (11.36%), DDC hits 558 (84.55%), Duplicates 2 (0.30%)
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: Tracking 583 distinct input hashes that result in 463 distinct outputs (79.42%)
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: RAM used: 304,29 KiB of 614,40 MiB budget. Usage: 0.05%
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.12.16-02.09.19:238][816]LogShaderCompilers: Display: Jobs assigned 19, completed 16 (84.21%)
+[2025.12.16-02.09.19:240][816]LogShaderCompilers: Display: Average time worker was idle: 1100.54 s
+[2025.12.16-02.09.19:240][816]LogShaderCompilers: Display: Time job spent in pending queue: average 14.38 s, longest 56.46 s
+[2025.12.16-02.09.19:240][816]LogShaderCompilers: Display: Job execution time: average 12.16 s, max 34.24 s
+[2025.12.16-02.09.19:240][816]LogShaderCompilers: Display: Job life time (pending + execution): average 19.17 s, max 57.12
+[2025.12.16-02.09.19:253][816]LogShaderCompilers: Display: Shader code size: average 4,23 KiB, min 460 B, max 7,543 KiB
+[2025.12.16-02.09.19:253][816]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.91 s
+[2025.12.16-02.09.19:253][816]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.16-02.09.19:253][816]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.16-02.09.19:253][816]LogShaderCompilers: Display: Average processing rate: 0.23 jobs/sec
+[2025.12.16-02.09.19:256][816]LogShaderCompilers: Display: Total thread time: 104,792 s
+[2025.12.16-02.09.19:257][816]LogShaderCompilers: Display: Total thread preprocess time: 20,986 s
+[2025.12.16-02.09.19:257][816]LogShaderCompilers: Display: Percentage time preprocessing: 20.03%
+[2025.12.16-02.09.19:257][816]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.12.16-02.09.19:257][816]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.16-02.09.19:258][816]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 23.35 sec, max 23.35 sec, min 23.35 sec)
+[2025.12.16-02.09.19:262][816]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 6.77 sec, max 24.47 sec, min 2.00 sec)
+[2025.12.16-02.09.19:262][816]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    1 times, average 5.47 sec, max 5.47 sec, min 5.47 sec)
+[2025.12.16-02.09.19:263][816]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 5.43 sec, max 5.43 sec, min 5.43 sec)
+[2025.12.16-02.09.19:263][816]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 5.24 sec, max 15.54 sec, min 1.58 sec)
+[2025.12.16-02.09.19:264][816]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.16-02.09.19:264][816]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.30% of total time (compiled    5 times, average 6.77 sec, max 24.47 sec, min 2.00 sec)
+[2025.12.16-02.09.19:264][816]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 22.29% of total time (compiled    1 times, average 23.35 sec, max 23.35 sec, min 23.35 sec)
+[2025.12.16-02.09.19:265][816]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.00% of total time (compiled    4 times, average 5.24 sec, max 15.54 sec, min 1.58 sec)
+[2025.12.16-02.09.19:265][816]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.25% of total time (compiled    2 times, average 4.32 sec, max 6.91 sec, min 1.74 sec)
+[2025.12.16-02.09.19:265][816]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 5.22% of total time (compiled    1 times, average 5.47 sec, max 5.47 sec, min 5.47 sec)
+[2025.12.16-02.09.19:265][816]LogShaderCompilers: Display: === Material stats ===
+[2025.12.16-02.09.19:265][816]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: Materials Translated:    149
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: Material Translation Only: 0.14 s (57%)
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.12.16-02.09.19:266][816]LogShaderCompilers: Display: ================================================
+[2025.12.16-02.09.51:019][955]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.10.01:670][998]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.10.06:117][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.10.06:735][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2025.12.16-02.10.07:029][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2025.12.16-02.10.07:267][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2025.12.16-02.10.07:419][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.29 sec (total: 17.7 sec)
+[2025.12.16-02.10.35:268][146]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.10.35:922][150]LogShaderCompilers: Display: Job FVelocityPS(permutation 0, format PCD3D_SM5) compile time exceeded threshold (35.609s)
+[2025.12.16-02.10.50:602][217]LogShaderCompilers: Display: Job FDebugViewModePS(permutation 0, format PCD3D_SM5) compile time exceeded threshold (71.462s)
+[2025.12.16-02.11.03:352][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.11.04:667][273]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2025.12.16-02.11.04:948][273]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2025.12.16-02.11.05:186][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2025.12.16-02.11.05:314][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.96 sec (total: 19.7 sec)
+[2025.12.16-02.11.06:032][274]LogUObjectHash: Compacting FUObjectHashTables data took   9.53ms
+[2025.12.16-02.11.06:036][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.206
+[2025.12.16-02.11.06:048][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.16-02.11.06:049][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.16-02.11.06:051][274]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.12.16-02.11.06:234][274]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2025.12.16-02.11.06:261][274]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.12.16-02.11.06:262][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.16-02.11.06:417][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.12.16-02.11.06:417][274]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BP_ThirdPersonCharacter_Auto31454FB49473934933783C199A154AEAD.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.12.16-02.11.06:419][274]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/HUD] ([2] browsable assets)...
+[2025.12.16-02.11.06:448][274]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/HUD.HUD]
+[2025.12.16-02.11.06:448][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2025.12.16-02.11.06:448][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/UI/HUD_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.16-02.11.06:624][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HUD_Auto3
+[2025.12.16-02.11.06:624][274]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/HUD_Auto3CA9D619B489C4BE5CA820C8D00728148.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/UI/HUD_Auto3.uasset'
+[2025.12.16-02.11.06:633][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2025.12.16-02.11.06:667][274]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Slate_Mat.T_Rock_Slate_Mat]
+[2025.12.16-02.11.06:667][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2025.12.16-02.11.06:683][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto3
+[2025.12.16-02.11.06:683][274]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/T_Rock_Slate_Mat_Auto363FF6B264809B423A55B96A74EE060CE.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto3.uasset'
+[2025.12.16-02.11.06:686][274]LogFileHelpers: Auto-saving content packages took 0.647
+[2025.12.16-02.11.35:551][411]LogContentBrowser: Attempting asset rename: HUD -> UIHUD
+[2025.12.16-02.11.36:845][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD_C' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_StaminaBar_Percent.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_StaminaBar_Percent.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_HealthBar_Percent_0.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:847][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_HealthBar_Percent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_TargetCount_Text.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_TargetCount_Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_AmmoLeft_Text.K2Node_FunctionResult_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.UIHUD:Get_AmmoLeft_Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.SKEL_UIHUD_C:PreConstruct' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.SKEL_UIHUD_C' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:848][411]LogMetaData: Removing '/Game/UI/UIHUD.SKEL_UIHUD_C:Construct' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:849][411]LogMetaData: Removing '/Game/UI/UIHUD.SKEL_UIHUD_C:Tick' ref from Metadata '/Game/UI/HUD.PackageMetaData'
+[2025.12.16-02.11.36:939][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.16-02.11.36:947][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UIHUD] ([2] browsable assets)...
+[2025.12.16-02.11.36:947][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UIHUD]
+[2025.12.16-02.11.36:947][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UIHUD" FILE="../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/UI/UIHUD.uasset" SILENT=true
+[2025.12.16-02.11.37:082][411]LogSavePackage: Moving output files for package: /Game/UI/UIHUD
+[2025.12.16-02.11.37:083][411]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/UIHUDB328BA17432547481CF9138EADB63D72.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Content/UI/UIHUD.uasset'
+[2025.12.16-02.11.37:102][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.115 ms (total: 19.8 sec)
+[2025.12.16-02.11.37:500][411]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Platform_C_UAID_047C16A0F59A64A702_1321470448 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/U4/X494ODF7I4S79VW5R9WHBU.PackageMetaData in its package
+[2025.12.16-02.11.37:500][411]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C16A0F59A689002_1966619864 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R5/LZ2W3XX4UZJ79QYL5TVT3T.PackageMetaData in its package
+[2025.12.16-02.11.37:520][411]LogUObjectHash: Compacting FUObjectHashTables data took  13.47ms
+[2025.12.16-02.11.37:783][411]LogUObjectHash: Compacting FUObjectHashTables data took  14.19ms
+[2025.12.16-02.11.38:012][411]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2025.12.16-02.11.38:220][411]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.16-02.11.38:220][411]LogContentValidation: Enabled validators:
+[2025.12.16-02.11.38:220][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.16-02.11.38:220][411]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.16-02.11.38:220][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.16-02.11.38:221][411]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.16-02.11.38:221][411]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.16-02.11.38:221][411]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.16-02.11.38:237][411]AssetCheck: /Game/UI/UIHUD Validando ativo
+[2025.12.16-02.11.38:684][412]LogUObjectHash: Compacting FUObjectHashTables data took  13.06ms
+[2025.12.16-02.11.45:969][443]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.12.05:487][504]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.12.19:318][543]LogShaderCompilers: Display: ================================================
+[2025.12.16-02.12.19:319][543]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.16-02.12.19:319][543]LogShaderCompilers: Display: Total job queries 660, among them cache hits 75 (11.36%), DDC hits 558 (84.55%), Duplicates 2 (0.30%)
+[2025.12.16-02.12.19:320][543]LogShaderCompilers: Display: Tracking 583 distinct input hashes that result in 471 distinct outputs (80.79%)
+[2025.12.16-02.12.19:320][543]LogShaderCompilers: Display: RAM used: 307,76 KiB of 614,40 MiB budget. Usage: 0.05%
+[2025.12.16-02.12.19:320][543]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Shaders Compiled: 25
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Average time worker was idle: 800.40 s
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Time job spent in pending queue: average 31.19 s, longest 111.48 s
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Job execution time: average 19.51 s, max 71.61 s
+[2025.12.16-02.12.19:321][543]LogShaderCompilers: Display: Job life time (pending + execution): average 50.70 s, max 153.99
+[2025.12.16-02.12.19:322][543]LogShaderCompilers: Display: Shader code size: average 4,261 KiB, min 460 B, max 12,234 KiB
+[2025.12.16-02.12.19:322][543]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 171.98 s
+[2025.12.16-02.12.19:322][543]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.16-02.12.19:323][543]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.16-02.12.19:333][543]LogShaderCompilers: Display: Average processing rate: 0.15 jobs/sec
+[2025.12.16-02.12.19:335][543]LogShaderCompilers: Display: Total thread time: 396,223 s
+[2025.12.16-02.12.19:336][543]LogShaderCompilers: Display: Total thread preprocess time: 25,749 s
+[2025.12.16-02.12.19:336][543]LogShaderCompilers: Display: Percentage time preprocessing: 6.50%
+[2025.12.16-02.12.19:336][543]LogShaderCompilers: Display: Effective parallelization: 2.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2025.12.16-02.12.19:336][543]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.16-02.12.19:336][543]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 71.46 sec, max 71.46 sec, min 71.46 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 26.77 sec, max 26.77 sec, min 26.77 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 24.78 sec, max 24.78 sec, min 24.78 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 23.35 sec, max 23.35 sec, min 23.35 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 20.08 sec, max 22.57 sec, min 17.60 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                                             FDebugViewModePS - 18.04% of total time (compiled    1 times, average 71.46 sec, max 71.46 sec, min 71.46 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 10.14% of total time (compiled    2 times, average 20.08 sec, max 22.57 sec, min 17.60 sec)
+[2025.12.16-02.12.19:337][543]LogShaderCompilers: Display:                                                  FVelocityPS - 9.82% of total time (compiled    2 times, average 19.46 sec, max 35.61 sec, min 3.31 sec)
+[2025.12.16-02.12.19:338][543]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.54% of total time (compiled    5 times, average 6.77 sec, max 24.47 sec, min 2.00 sec)
+[2025.12.16-02.12.19:338][543]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.76% of total time (compiled    1 times, average 26.77 sec, max 26.77 sec, min 26.77 sec)
+[2025.12.16-02.12.19:338][543]LogShaderCompilers: Display: === Material stats ===
+[2025.12.16-02.12.19:338][543]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.16-02.12.19:338][543]LogShaderCompilers: Display: Materials Translated:    149
+[2025.12.16-02.12.19:339][543]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.12.16-02.12.19:352][543]LogShaderCompilers: Display: Material Translation Only: 0.14 s (57%)
+[2025.12.16-02.12.19:352][543]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.16-02.12.19:353][543]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.12.16-02.12.19:353][543]LogShaderCompilers: Display: ================================================
