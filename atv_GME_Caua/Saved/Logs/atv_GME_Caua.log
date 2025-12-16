@@ -2987,3 +2987,323 @@ Certifique-se de que "/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_Th
 [2025.12.16-02.12.19:352][543]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.12.16-02.12.19:353][543]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2025.12.16-02.12.19:353][543]LogShaderCompilers: Display: ================================================
+[2025.12.16-02.12.32:013][577]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.12.55:254][642]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.13.11:367][688]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.13.30:986][746]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.14.07:401][852]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.14.09:054][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6243.470703
+[2025.12.16-02.14.09:909][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.14.09:917][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6244.021973, Update Interval: 311.808838
+[2025.12.16-02.14.41:465][948]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.15.02:786][ 24]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.16-02.15.02:816][ 24]LogContentBundle: [ThirdPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.16-02.15.02:816][ 24]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.16-02.15.02:844][ 24]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 26.445 ms (total: 203.463 ms)
+[2025.12.16-02.15.02:865][ 24]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.12.16-02.15.03:801][ 24]LogUObjectHash: Compacting FUObjectHashTables data took  12.51ms
+[2025.12.16-02.15.03:810][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 965 ms (1 blueprints)
+[2025.12.16-02.15.03:811][ 24]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2025.12.16-02.15.03:821][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.16-02.15.03:917][ 25]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.15.04:014][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110927s)
+[2025.12.16-02.15.04:014][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.111037s)
+[2025.12.16-02.15.04:167][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2025.12.16-02.15.04:172][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.16-02.15.04:181][ 25]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2025.12.16-02.15.04:183][ 25]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.16-02.15.04:183][ 25]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.16-02.15.04:183][ 25]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.16-02.15.04:183][ 25]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.16-02.15.04:204][ 25]LogWorldPartition: Display: WorldPartition initialize took 21.528 ms (total: 581.639 ms)
+[2025.12.16-02.15.04:204][ 25]LogPlayLevel: PIE: World Init took: (0.032547s)
+[2025.12.16-02.15.04:214][ 25]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-02.15.04:214][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-02.15.04:214][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-02.15.04:214][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-02.15.04:215][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-02.15.04:216][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-02.15.04:220][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-02.15.04:335][ 25]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2025.12.16-02.15.04:336][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-02.15.04:336][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-02.15.04:337][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-02.15.04:340][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.16-02.15.04:341][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.16-02.15.04:351][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.16-02.15.04:351][ 25]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.16-02.15.04:351][ 25]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.12.16-02.15.04:351][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.16-02.15.04:352][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.16-02.15.04:363][ 25]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.16-02.15.04:398][ 25]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.12.15-23.15.04
+[2025.12.16-02.15.04:399][ 25]LogWorld: Bringing up level for play took: 0.034191
+[2025.12.16-02.15.04:421][ 25]PIE: Servidor conectado
+[2025.12.16-02.15.04:431][ 25]PIE: Tempo inicial total de reprodução no editor: 1,614 s
+[2025.12.16-02.15.10:073][ 75]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.15.11:984][ 96]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.15.11:987][ 96]LogScript: Warning: Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153 pela propriedade StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153 não é válido (lixeira ou encerramento pendente)
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_5
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:00F4
+[2025.12.16-02.15.11:988][ 96]PIE: Error: Blueprint Tempo de execução Error: "Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153 pela propriedade StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACDAB02_1494126153 não é válido (lixeira ou encerramento pendente)". Nódulo:  Destroy Actor Gráfico  EventGraph Função:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2025.12.16-02.15.13:669][105]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=9
+[2025.12.16-02.15.14:150][110]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.15.15:602][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.15.15:602][125]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.15.15:603][125]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.15.15:603][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.15.15:603][125]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.12.16-02.15.15:654][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-02.15.15:689][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.15.15:917][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.15.15:918][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.16-02.15.15:919][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.12.16-02.15.15:932][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.12.16-02.15.15:982][125]LogUObjectHash: Compacting FUObjectHashTables data took  12.06ms
+[2025.12.16-02.15.16:899][126]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.16-02.15.35:519][208]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.15.35:782][208]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.15.50:051][293]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.16.29:998][484]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.16.42:649][539]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.17.03:782][598]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.17.27:385][666]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.17.47:817][724]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.18.19:096][817]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.18.30:696][852]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.18.46:737][920]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.18.56:305][961]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.12.16-02.18.56:462][961]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.12.16-02.18.56:471][961]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.18.56:471][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.18.56:624][961]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.18.56:624][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.18.56:637][961]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.18.56:637][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.18.56:720][961]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.18.56:720][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.18.56:904][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.12.16-02.19.09:326][ 29]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.19.34:275][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.12.16-02.19.34:276][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.12.16-02.19.34:277][144]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.12.16-02.19.55:769][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6590.181641
+[2025.12.16-02.19.56:343][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.19.56:343][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6590.570312, Update Interval: 300.126343
+[2025.12.16-02.20.37:367][436]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.21.35:135][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.12.16-02.21.35:139][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.121
+[2025.12.16-02.21.35:139][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.16-02.21.35:158][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.12.16-02.21.35:158][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.16-02.21.35:185][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2025.12.16-02.21.35:185][657]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BP_ThirdPersonCharacter_Auto45815A7694C35ED77A3B42FAF35212C05.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2025.12.16-02.21.35:186][657]LogFileHelpers: Auto-saving content packages took 0.048
+[2025.12.16-02.21.39:431][670]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.23.14:892][158]LogEditorTransaction: Undo Exclua a seleção atual.
+[2025.12.16-02.23.15:813][162]LogEditorTransaction: Undo Mover Nódulo
+[2025.12.16-02.23.16:786][167]LogEditorTransaction: Undo Adicionar Nódulo
+[2025.12.16-02.23.17:896][172]LogEditorTransaction: Undo Renomear Função
+[2025.12.16-02.24.53:554][621]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.25.43:907][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6938.316895
+[2025.12.16-02.25.44:907][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.25.44:907][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6938.982910, Update Interval: 333.302399
+[2025.12.16-02.25.55:407][806]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.26.58:166][994]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.28.01:464][184]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.31.35:919][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2025.12.16-02.31.35:926][295]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.089
+[2025.12.16-02.31.35:926][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.16-02.31.35:939][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.12.16-02.31.35:939][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.16-02.31.35:967][295]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2025.12.16-02.31.35:968][295]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BP_ThirdPersonCharacter_Auto586D74C5642E8563920874EBCB26B2AF8.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2025.12.16-02.31.36:008][295]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2025.12.16-02.31.36:008][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2025.12.16-02.31.36:010][295]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto5
+[2025.12.16-02.31.36:010][295]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/T_Rock_Slate_Mat_Auto5BE09926A4CDC6804FA6CC38299D9F95C.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto5.uasset'
+[2025.12.16-02.31.36:011][295]LogFileHelpers: Auto-saving content packages took 0.086
+[2025.12.16-02.31.39:997][316]LogDerivedDataCache: C:/Users/samuc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.16-02.32.04:119][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7318.534180
+[2025.12.16-02.32.04:696][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.32.04:696][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7318.919922, Update Interval: 350.996429
+[2025.12.16-02.33.08:275][756]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.33.20:939][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.33.31:305][831]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.34.03:001][969]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.34.21:087][ 51]LogEditorTransaction: Undo Adicionar nova função
+[2025.12.16-02.35.41:295][386]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.36.16:583][492]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.37.29:554][871]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.37.58:135][966]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.38.47:157][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7721.570801
+[2025.12.16-02.38.48:157][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.38.48:157][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7722.238281, Update Interval: 313.134552
+[2025.12.16-02.38.52:893][130]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.41.41:350][959]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.44.00:652][588]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.44.06:119][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2025.12.16-02.44.06:121][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.077
+[2025.12.16-02.44.06:122][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.16-02.44.06:144][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.12.16-02.44.06:144][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.16-02.44.06:170][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.12.16-02.44.06:171][604]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/BP_ThirdPersonCharacter_Auto64AE72D0D4DDCC266D8C8228F613896D0.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.12.16-02.44.06:172][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Slate_Mat] ([1] browsable assets)...
+[2025.12.16-02.44.06:172][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Slate_Mat]
+[2025.12.16-02.44.06:175][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto6
+[2025.12.16-02.44.06:175][604]LogSavePackage: Moving '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/T_Rock_Slate_Mat_Auto6C7E63A844AAF075CB36935A384ECC758.tmp' to '../../../../../../Users/samuc/Documents/GitHub/turma2025-2-caua-andre/atv_GME_Caua/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Slate_Mat_Auto6.uasset'
+[2025.12.16-02.44.06:177][604]LogFileHelpers: Auto-saving content packages took 0.055
+[2025.12.16-02.44.42:232][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8076.634766
+[2025.12.16-02.44.42:740][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.16-02.44.42:740][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8076.973145, Update Interval: 336.235840
+[2025.12.16-02.45.58:876][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2025.12.16-02.46.02:278][248]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.16-02.46.02:289][248]LogContentBundle: [ThirdPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.16-02.46.02:289][248]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.16-02.46.02:298][248]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9.736 ms (total: 213.199 ms)
+[2025.12.16-02.46.02:299][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-02.46.02:299][248]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2025.12.16-02.46.02:302][248]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.12.16-02.46.02:686][249]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.46.02:767][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080713s)
+[2025.12.16-02.46.02:767][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.080831s)
+[2025.12.16-02.46.02:844][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.12.16-02.46.02:847][249]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.16-02.46.02:849][249]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2025.12.16-02.46.02:851][249]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.16-02.46.02:851][249]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.16-02.46.02:851][249]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.16-02.46.02:851][249]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.16-02.46.02:861][249]LogWorldPartition: Display: WorldPartition initialize took 10.324 ms (total: 591.964 ms)
+[2025.12.16-02.46.02:861][249]LogPlayLevel: PIE: World Init took: (0.013842s)
+[2025.12.16-02.46.02:864][249]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-02.46.02:864][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-02.46.02:864][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-02.46.02:864][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-02.46.02:864][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-02.46.02:864][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-02.46.02:869][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-02.46.02:923][249]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2025.12.16-02.46.02:923][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-02.46.02:923][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-02.46.02:923][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-02.46.02:925][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.16-02.46.02:925][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.16-02.46.02:929][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.16-02.46.02:930][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.16-02.46.02:930][249]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.16-02.46.02:930][249]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.12.16-02.46.02:930][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.16-02.46.02:935][249]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.16-02.46.02:944][249]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.12.15-23.46.02
+[2025.12.16-02.46.02:946][249]LogWorld: Bringing up level for play took: 0.010297
+[2025.12.16-02.46.02:959][249]PIE: Servidor conectado
+[2025.12.16-02.46.02:961][249]PIE: Tempo inicial total de reprodução no editor: 0,672 s
+[2025.12.16-02.46.06:201][285]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.46.07:135][297]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.46.07:135][297]LogScript: Warning: Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_5
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:008F
+[2025.12.16-02.46.07:135][297]PIE: Error: Blueprint Tempo de execução Error: "Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)". Nódulo:  Destroy Actor Gráfico  EventGraph Função:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2025.12.16-02.46.07:499][302]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.46.07:499][302]LogScript: Warning: Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_5
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:008F
+[2025.12.16-02.46.07:500][302]PIE: Error: Blueprint Tempo de execução Error: "Foi realizada uma tentativa de acesso a StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 pela propriedade StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332_ExecuteUbergraph_ThirdPersonMap_RefProperty, mas StaticMeshActor_UAID_047C16A0F59ACEAB02_1366188332 não é válido (lixeira ou encerramento pendente)". Nódulo:  Destroy Actor Gráfico  EventGraph Função:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2025.12.16-02.46.11:445][350]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2025.12.16-02.46.13:593][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.46.13:593][376]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.46.13:593][376]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.46.13:595][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.46.13:595][376]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.12.16-02.46.13:628][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-02.46.13:636][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.46.13:706][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.16-02.46.13:706][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.16-02.46.13:706][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.12.16-02.46.13:710][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.12.16-02.46.13:724][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.46.13:732][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2025.12.16-02.46.14:110][377]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.12.16-02.46.18:758][401]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.46.18:961][401]LogSlate: Window 'Log de Mensagens' being destroyed
+[2025.12.16-02.46.42:210][523]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.47.10:413][636]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.47.45:241][811]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.48.26:926][996]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.49.01:409][140]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.16-02.49.21:198][223]LogDebuggerCommands: Repeating last play command: Janela de visualização selecionada
+[2025.12.16-02.49.21:231][223]LogContentBundle: [ThirdPersonMap(Autônomo)] Generating Streaming for 0 Content Bundles.
+[2025.12.16-02.49.21:231][223]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.12.16-02.49.21:279][223]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 48.844 ms (total: 262.044 ms)
+[2025.12.16-02.49.21:280][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.16-02.49.21:281][223]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2025.12.16-02.49.21:295][223]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.12.16-02.49.21:511][224]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.49.21:625][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113370s)
+[2025.12.16-02.49.21:626][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.113487s)
+[2025.12.16-02.49.21:892][224]LogUObjectHash: Compacting FUObjectHashTables data took  13.94ms
+[2025.12.16-02.49.21:897][224]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.12.16-02.49.21:910][224]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap'.
+[2025.12.16-02.49.21:914][224]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.16-02.49.21:914][224]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.16-02.49.21:914][224]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.16-02.49.21:914][224]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.16-02.49.21:959][224]LogWorldPartition: Display: WorldPartition initialize took 44.699 ms (total: 636.663 ms)
+[2025.12.16-02.49.21:959][224]LogPlayLevel: PIE: World Init took: (0.061586s)
+[2025.12.16-02.49.21:963][224]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.16-02.49.21:963][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.16-02.49.21:964][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.16-02.49.21:964][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.16-02.49.21:964][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.16-02.49.21:964][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.16-02.49.21:964][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.16-02.49.21:979][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.16-02.49.22:111][224]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2025.12.16-02.49.22:113][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.16-02.49.22:113][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.16-02.49.22:113][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.16-02.49.22:122][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.16-02.49.22:122][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.16-02.49.22:130][224]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.16-02.49.22:130][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.16-02.49.22:130][224]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.12.16-02.49.22:130][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.16-02.49.22:130][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.16-02.49.22:144][224]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.16-02.49.22:183][224]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.12.15-23.49.22
+[2025.12.16-02.49.22:184][224]LogWorld: Bringing up level for play took: 0.040305
+[2025.12.16-02.49.22:241][224]PIE: Servidor conectado
+[2025.12.16-02.49.22:245][224]PIE: Tempo inicial total de reprodução no editor: 1,015 s
+[2025.12.16-02.49.26:658][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.49.26:659][255]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.12.16-02.49.26:659][255]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.16-02.49.26:665][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.49.26:666][255]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.12.16-02.49.26:774][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.16-02.49.26:807][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.16-02.49.27:050][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.16-02.49.27:057][255]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.16-02.49.27:057][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.16-02.49.27:064][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.12.16-02.49.27:112][255]LogUObjectHash: Compacting FUObjectHashTables data took  13.61ms
+[2025.12.16-02.49.27:793][256]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.12.16-02.49.33:800][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
